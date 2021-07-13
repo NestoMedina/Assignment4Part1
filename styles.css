@@ -1,0 +1,134 @@
+body {
+    background-color: lightslategray;
+    background-image: url("https://wallpaperaccess.com/full/109538.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Futura PT';
+    font-weight: bold;
+    text-align: center;
+    font-size: 150px;
+}
+
+#story {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Futura PT';
+    font-weight: bold;
+}
+
+
+.gifs{
+    width: 50%;
+    height: auto;
+}
+
+
+footer{
+    font-family: 'Futura PT';
+}
+
+.gifs {
+    width: 40%;
+    height: auto;
+}
+.gifs2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.ports {
+    width: 510px;
+}
+
+.slides1 {
+    width: 510px;
+}
+
+
+#name {
+    font-family: 'Futura PT';
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#foot1{
+    text-align:center;
+}
+
+#footer1{
+    text-align: left;
+}
+
+#footer2{
+    text-align: center;
+}
+
+#last{
+    text-align: right;
+    font-size: 50px;
+    font-family: 'Futura PT';
+    font-weight: bold;
+}
+
+.para3 {
+
+    text-align: right;
+}
+
+.gifs5 {
+    display: block;
+    margin-left: auto;
+    margin-right: 4px;
+    width: 40%;
+}
+
+
+
+/*SLIDESHOW CODE*/
+.slides1{
+    width: 100%;
+    height: auto;
+}
+
+#slideshow {
+    overflow: hidden;
+    height: 720px;
+    width: 510px;
+    margin: 0 auto;
+}
+
+.slide-wrapper {
+    width: 2912px;
+    -webkit-animation: slide 18s ease infinite;
+}
+
+.slide {
+    float: left;
+    height: 720px;
+    width: 510px;
+}
+@-webkit-keyframes slide {
+    20% {
+        margin-left: 0px;
+    }
+
+    30% {
+        margin-left: -510px;
+    }
+
+    60% {
+        margin-left: -1020px;
+    }
+
+    70% {
+        margin-left: -510px;
+    }
+
+}
+
