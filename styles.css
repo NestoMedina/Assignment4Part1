@@ -90,6 +90,38 @@ footer{
     text-align: right;
 }
 
+.para3div {
+    border: 1px none;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 1100px;
+}
+
+.paradiv {
+    border: 1px none;
+    padding-top: 50px;
+    padding-right: 1100px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.para1div {
+    border: 1px none;
+    padding-top: 50px;
+    padding-right: 500px;
+    padding-bottom: 5px;
+    padding-left: 500px;
+}
+
+.para2div {
+    border: 1px none;
+    padding-top: 50px;
+    padding-right: 500px;
+    padding-bottom: 5px;
+    padding-left: 500px;
+}
+
 .gifs5 {
     display: block;
     margin-left: auto;
